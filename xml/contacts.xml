@@ -1,0 +1,21 @@
+
+<contacts>
+  <contact id="c1">
+    <nimi>David</nimi>
+    <perekonnanimi>Lennuk</perekonnanimi>
+    <telefon>58533524</telefon>
+    <markmed>Skype: david.lennuk</markmed>
+  </contact>
+  <contact id="c2">
+    <nimi>Maria</nimi>
+    <perekonnanimi>Maasikas</perekonnanimi>
+    <telefon>+3725345678</telefon>
+    <markmed>Perekond</markmed>
+  </contact>
+  <contact id="c3">
+    <nimi>John</nimi>
+    <perekonnanimi>Doe</perekonnanimi>
+    <telefon>+3725550000</telefon>
+    <markmed>VIP</markmed>
+  </contact>
+</contacts>
